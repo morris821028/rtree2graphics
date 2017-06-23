@@ -1,0 +1,11 @@
+# windows exectuable file
+
+*.exe
+
+# pdflatex output
+
+*.log
+*.aux
+*.pdf
+*.tex
+*.out
